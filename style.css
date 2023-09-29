@@ -1,0 +1,12 @@
+#codigoInternacional::placeholder {
+  font-style: italic;
+}
+
+#numero::placeholder {
+  font-style: italic;
+}
+
+#send {
+  background-color: green;
+  color: white;
+}
