@@ -1,12 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Jura&display=swap');
+
+body {
+	font-family: Josefin Sans;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+color: #39ff14;
+}
+
 #codigoInternacional::placeholder {
-  font-style: italic;
+	font-style: italic;
 }
 
 #numero::placeholder {
-  font-style: italic;
+	font-style: italic;
 }
 
-#send {
-  background-color: green;
-  color: white;
+button {
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 200px;
+	border-color: white;
+	border-radius: 25px;
+  margin-bottom:  10%;
+}
+
+img {
+	height: 100px; 
+	width: 100px;
+}
+
+#codigoInternacional {
+	height: 25px;
+	width: 50px;
+	border-radius: 25px;
+}
+
+p {
+	font-size: 25px;
+}
+
+#numero {
+	height: 25px;
+	width: 100px;
+	border-radius: 25px;
 }
